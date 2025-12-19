@@ -1,2 +1,2 @@
-# PPTS
-consists all ppts of my classes 
+# PPTS Of Selenium Python
+consists all ppts of Selenium Python
